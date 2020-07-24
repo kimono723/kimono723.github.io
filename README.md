@@ -1,2 +1,10 @@
-# 您正在访问kimono723.github.io
-# 请输入index.html来访问网页
+  
+<DCOTYPE HTML>
+<html>
+<head>
+<title>kimono723</title>
+</head>
+<body>
+<h1>这是kimono723的GitHub博客</h1>
+</body>
+</html>
